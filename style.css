@@ -1,11 +1,17 @@
-#firstChoice:hover{
-    background-color: yellow;
-    border: 1px solid rgb(172, 183, 143);
-    font-size:15px
-}
 body{
     background-color: #4BCAF9;
 }
-img{
-    width: 60%;
+.toy{
+    width: 49%;
+}
+.cloud{
+    width: 20%;
+    margin-left: 6%;
+}
+.cloud2{
+    width: 20%;
+    margin-right: 4%;
+}
+.cloudnav{
+    width: 24%;
 }
